@@ -2,10 +2,7 @@
 
 A Spotify clone built using HTML and CSS.
 
-## Live Demo
-[Spotify Clone](https://Koustav29.github.io/spotify-clone/)
-
-## Features
+Features
 -Mimics the Spotify interface using only HTML and CSS.
 
 ## Technologies Used
