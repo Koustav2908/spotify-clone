@@ -2,7 +2,7 @@
 
 A Spotify clone built using HTML and CSS.
 
-Features
+## Features
 -Mimics the Spotify interface using only HTML and CSS.
 
 ## Technologies Used
